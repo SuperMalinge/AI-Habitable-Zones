@@ -2,6 +2,8 @@
 
 An advanced AI-powered tool for analyzing potentially habitable exoplanets based on stellar and planetary characteristics. The application provides real-time visualization of habitable zones and planetary systems with a user-friendly GUI.
 
+![Alt Text](habitablezone3.png)
+
 ## ✨ Features
 
 - Advanced habitability calculations based on multiple parameters
