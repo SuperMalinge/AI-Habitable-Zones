@@ -4,6 +4,26 @@ An advanced AI-powered tool for analyzing potentially habitable exoplanets based
 
 ![Alt Text](habitablezone3.png)
 
+Update: 28.01.2025
+*Extended star and planet properties
+*More sophisticated habitability calculations
+*Improved visualization with orbital paths
+*Additional planetary characteristics
+*Enhanced plotting features
+
+Next Implementations:
+
+*Spectral class
+*Metallicity
+*Rotation period
+*Magnetic field strength
+*Surface temperature
+*Water content
+*Geological activity
+*Orbital period
+*Axial tilt
+
+
 ## ✨ Features
 
 - Advanced habitability calculations based on multiple parameters
